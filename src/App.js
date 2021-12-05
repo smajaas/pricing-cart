@@ -17,7 +17,7 @@ function App() {
             </div>
           </header>
 
-          <div className="row text-center align-items-end">
+          <div className="row text-center align-items-left">
             <div className="col-lg-4 mb-5 mb-lg-0">
               <div className="bg-white p-5 rounded-lg shadow">
                 <h1 className="h6 text-uppercase font-weight-bolder mb-4">
@@ -164,8 +164,7 @@ function App() {
                     Sub-domain
                   </li>
                   <li className="text-unmuted mb-3">
-                    <i className=" fa fa-times mr-2 text-primary"></i>Free
-                    Sub-domain
+                    <i className=" fa fa-times mr-2 text-primary"></i>Monthly Status Reports
                   </li>
                 </ul>
 

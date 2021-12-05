@@ -1,6 +1,6 @@
- .App {
+ /* .App {
   text-align: center;
-}
+} */
 
 .rounded-lg {
   border-radius: 1rem ;
@@ -62,7 +62,7 @@ font-size: 20px;
 
   }
 
-.main-container .btn {
+.container .btn {
     font-size: 80%;
     border-radius: 5rem;
     letter-spacing: .1rem;
